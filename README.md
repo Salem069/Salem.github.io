@@ -38,35 +38,3 @@
 </body>
 </html>
 
-/* styles.css */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #1e1e1e;
-  color: #fff;
-  margin: 0;
-  padding: 0;
-}
-
-header {
-  background-color: #333;
-  padding: 20px;
-  text-align: center;
-}
-
-section {
-  padding: 20px;
-}
-
-h1, h2 {
-  color: #ffd700;
-}
-
-footer {
-  background-color: #333;
-  text-align: center;
-  padding: 10px;
-}
-
-img {
-  border-radius: 10px;
-} 
